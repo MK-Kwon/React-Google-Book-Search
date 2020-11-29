@@ -45,7 +45,6 @@ MongoDB, Mongoose, MongoDB Atlas, Express, React, Node.JS, Javascript, Bootstrap
 👤 **Min Kyung Kwon**
 
 * Github: [@MK-Kwon](https://github.com/MK-Kwon)
-* Github: [@MK-Kwon](https://github.com/MK-Kwon)
 * LinkedIn: [@min-kyung-kwon](https://linkedin.com/in/min-kyung-kwon)
 
 ## 🤝 Contributing
