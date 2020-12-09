@@ -22,11 +22,11 @@
 
 > A responsive, single-page MERN(MongoDB, ExpressJS, ReactJS and NodeJS) app that uses the Google Books API to search, save and delete books selected by the user to a Mongo database. The app is styled with Bootstrap 4.5.3.
 
-<img src="https://thumbs.gfycat.com/FriendlyNastyHalibut-size_restricted.gif" width="800">
+<img src="https://thumbs.gfycat.com/FriendlyNastyHalibut-size_restricted.gif" width ="100%" height="auto">
 
-<img src="http://drive.google.com/uc?id=1FVdzJPEB2rpjbR0JRYejVxT2yYeOWfdw" width ="80%" height="auto">
+<img src="http://drive.google.com/uc?id=1FVdzJPEB2rpjbR0JRYejVxT2yYeOWfdw" width ="100%" height="auto">
 
-<img src="http://drive.google.com/uc?id=14kJeOhKgNdK93y-QAMgQTkTQeXTtX8BE" width ="80%" height="auto">
+<img src="http://drive.google.com/uc?id=14kJeOhKgNdK93y-QAMgQTkTQeXTtX8BE" width ="100%" height="auto">
 
 ## Technologies
 
