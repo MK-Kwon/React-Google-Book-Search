@@ -24,7 +24,7 @@
 
 <img src="https://thumbs.gfycat.com/FriendlyNastyHalibut-size_restricted.gif" width="800">
 
-<img src="https://drive.google.com/file/d/1FVdzJPEB2rpjbR0JRYejVxT2yYeOWfdw/view?usp=sharing" width =“100”% height=“auto”>
+<img src="http://drive.google.com/uc?id=14kJeOhKgNdK93y-QAMgQTkTQeXTtX8BE" width =“100”% height=“auto”>
 
 <img src="https://drive.google.com/file/d/14kJeOhKgNdK93y-QAMgQTkTQeXTtX8BE/view?usp=sharing" width =“100”% height=“auto”>
 
