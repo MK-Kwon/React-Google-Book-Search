@@ -26,7 +26,7 @@
 
 <img src="http://drive.google.com/uc?id=1FVdzJPEB2rpjbR0JRYejVxT2yYeOWfdw" width ="80%" height="auto">
 
-<img src="https://drive.google.com/file/d/14kJeOhKgNdK93y-QAMgQTkTQeXTtX8BE/view?usp=sharing" width =“100”% height=“auto”>
+<img src="http://drive.google.com/uc?id=14kJeOhKgNdK93y-QAMgQTkTQeXTtX8BE" width ="80%" height="auto">
 
 ## Technologies
 
